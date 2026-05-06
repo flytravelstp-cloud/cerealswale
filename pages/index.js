@@ -9,3 +9,6 @@ export default function Home() {
   );
 }
 <a href="/products">🛒 Products देखें</a>
+export default function Home() {
+  return <h1>WORKING ✅</h1>;
+}
