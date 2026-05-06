@@ -8,3 +8,4 @@ export default function Home() {
     </div>
   );
 }
+<a href="/products">🛒 Products देखें</a>
